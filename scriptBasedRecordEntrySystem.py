@@ -10,7 +10,7 @@ def main():
 	for i in range(50):
 		print("")
 	time.sleep(2)
-	print("		SBRES v.a12")
+	print("		SBRES v.β_01_02")
 	time.sleep(1)
 	print("")
 	print("		Begin Entry Sequence")
